@@ -26,7 +26,7 @@ const GetStarted = () => (
       className='flex-[0.75] flex justify-center flex-col'>
         <TypingText title='| How The Metaverse Works'/>
         <TitleText title={<>Get Started with only a few clicks</>} />
-        <div children='mt-[31px] flex flex-col max-w-[370px] gap-[24px]'>
+        <div className='mt-[31px] flex flex-col max-w-[370px] gap-[24px]'>
           {startingFeatures.map((feature, index) => (
             <StartSteps
             key={feature}

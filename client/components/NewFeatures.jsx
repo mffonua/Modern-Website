@@ -1,3 +1,5 @@
+import styles from "../styles";
+
 const NewFeatures = () => (
   <div>
     New Features
