@@ -1,1 +1,0 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/mffonua/Desktop/Code/challenges/Modern-Website/client/app/page":["/Users/mffonua/Desktop/Code/challenges/Modern-Website/client/styles/globals.css"]},"/Users/mffonua/Desktop/Code/challenges/Modern-Website/client/app/layout.js":["/Users/mffonua/Desktop/Code/challenges/Modern-Website/client/styles/globals.css"]}
