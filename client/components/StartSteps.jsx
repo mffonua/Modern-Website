@@ -1,4 +1,6 @@
-const StartSteps = () => (
+
+
+const StartSteps = ({ number, text }) => (
   <div>
     start steps
   </div>

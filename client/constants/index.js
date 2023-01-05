@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a world that matches your intrest',
+  'Enter the world by reading "The Metaverse for Dummies" to be safe',
+  'But No need to beat around the bush, just full send it and have fun',
 ];
 
 export const newFeatures = [
@@ -43,7 +43,7 @@ export const newFeatures = [
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'In the latest update, you can actually die, making the world more realistic than ever',
   },
 ];
 
