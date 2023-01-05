@@ -37,7 +37,7 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'A new world',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'we have the latest update with new world for you to try!',
   },
   {
     imgUrl: '/headset.svg',
@@ -49,27 +49,27 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/elon-musk.png',
+    title: 'Elon Musk hates The Metaverse?',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Elon Musk doesnt find the idea of the metaverse “compelling” — and thinks that bulky headsets being pushed by Mark Zuckerberg and other proponents of virtual reality are too awkward to catch on. ',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/metaverse-for-noobs.png',
+    title: 'Tips and Tricks to easily master the madness of the Metaverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'With these tips and tricks you will never be called a noob again. Once utilizing the things learned here you can make as much money as you want!! Its almost too good to be true.',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: '/the-planet.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Are you broke? For only $999.99 you can tour the entire world, visit the ancient wonders of the world, or even be a creep and spy on people. Do what you cant do in real life on .. The Metaverse ',
   },
 ];
 
 export const socials = [
-  {
+  { 
     name: 'twitter',
     url: '/twitter.svg',
   },
