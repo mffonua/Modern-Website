@@ -52,21 +52,21 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The Metaverse Will Enhance Physical-World Experiences',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'We have all been living in a hybrid world of online and offline, especially over the last year plus, with the ongoing pandemic. From video calls to messaging, we are more connected than ever. However, the metaverse aims to simplify these with less friction and by enhancing physical-world experiences.',
   },
   {
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Does thinking about the vastness of the metaverse fill you with dread? Do not panic: we are here to help.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Elon Musk thinks Neuralink is better than the metaverse in long term',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'The Neuralink founder does not see a future full of VR headsets after questioning its long-term implications on eyesight.',
   },
 ];
 
