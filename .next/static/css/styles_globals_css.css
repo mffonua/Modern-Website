@@ -533,6 +533,9 @@ video {
 .h-\[38px\] {
   height: 38px;
 }
+.h-\[28px\] {
+  height: 28px;
+}
 .w-\[50\%\] {
   width: 50%;
 }
@@ -550,6 +553,9 @@ video {
 }
 .w-\[60px\] {
   width: 60px;
+}
+.w-\[18px\] {
+  width: 18px;
 }
 .flex-row {
   flex-direction: row;
