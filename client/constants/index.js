@@ -23,6 +23,8 @@ export const exploreWorlds = [
     id: 'world-5',
     imgUrl: '/planet-05.png',
     title: 'Peak Legends',
+    
+    
   },
 ];
 
@@ -37,7 +39,7 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'A new world',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'we have the latest update with a new world for you to try',
   },
   {
     imgUrl: '/headset.svg',
