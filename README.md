@@ -4,8 +4,8 @@
 This is a full stack application that allows for a user to enter into the metaverse. 
 
 
-[Deployep-App](http:google.com)
-[Screenshot](screenshot)
+[Deployep-App](https://github.com/mffonua/Modern-Website)
+[Screenshot](./images/screenshot.png)
 
 ## Concepts Used
 
