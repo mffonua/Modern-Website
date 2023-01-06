@@ -41,7 +41,7 @@ const Footer = () => (
             The Metaverse
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 The Metaverse. All rights reserved.
+            Copyright © 2023 - 2024 The Metaverse. All rights not reserved.
           </p>
 
           <div className="flex gap-4">

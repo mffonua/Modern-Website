@@ -16,7 +16,7 @@ const World = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
 
-      <TypingText title="| People on the World" textStyles="text-center" />
+      <TypingText title="| People around the World" textStyles="text-center" />
       <TitleText
         title={(
           <>Track friends on your account and invite them to play together in the same
